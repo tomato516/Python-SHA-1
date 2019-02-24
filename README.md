@@ -5,7 +5,7 @@ This Python 2.7 program breaks SHA-1 hashes in a brute force manner.
 
 ## How to Use? 
 Run the program: python2 <filename.py>
-User will be prompted to input hash value 
+User will be prompted to input hash value.  
 If match found, program shall output the password, number of guesses and duration to break the hash 
 * If the input hash value is a _salted hash_: 
 * Input the _salt term_ first 
