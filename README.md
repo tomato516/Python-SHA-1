@@ -4,7 +4,7 @@ This Python 2.7 program breaks SHA-1 hashes in a brute force manner.
 * User must have this password list in the _same directory_ as the program: https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt
 
 ## How to Use? 
-Run the program: python2 <filename.py>
+Run the program: python2 <filename.py>  
 User will be prompted to input hash value.  
 If match found, program shall output the password, number of guesses and duration to break the hash 
 * If the input hash value is a _salted hash_: 
