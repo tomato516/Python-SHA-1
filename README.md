@@ -1,4 +1,4 @@
-# Python-SHA-1
+# Python-SHA-1 || By: Jenny Choi
 This Python 2.7 program breaks SHA-1 hashes in a brute force manner.
 * User must input, as an argument, the hash value to the program 
 * User must have this password list in the _same directory_ as the program: https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt
@@ -19,4 +19,4 @@ If match found, program shall output the password, number of guesses and duratio
 * Leet hacker salt term hash : f0744d60dd500c92c0d37c16174cc58d3c4bdd8e -> "slayer"
 * Leet hacker password hash(_must be concatenated with salt term hash_): ece4bb07f2580ed8b39aa52b7f7f918e43033ea1 -> "harib" 
 
-Jenny Choi
+
