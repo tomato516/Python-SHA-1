@@ -10,7 +10,7 @@ User will be prompted to input hash value
 * Input the _salt term_ first 
 * If a match is found, user will be asked if the hash is a salt term 
 * User will be prompted to input _password hash_ (this hash will be concatenated with salt term)
-If match found, program shall output the password, number of guesses and duration to break the hash 
+* If match found, program shall output the password, number of guesses and duration to break the hash 
 
 ## Solutions 
 * Testing program hash: b7a875fc1ea228b9061041b7cec4bd3c52ab3ce3 -> "letmein"
