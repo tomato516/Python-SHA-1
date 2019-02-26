@@ -32,7 +32,8 @@ Duration to break hash: 13.5483529568  seconds
 Goodbye!
 ```
 
-* Leet hacker salt term hash : f0744d60dd500c92c0d37c16174cc58d3c4bdd8e:  
+* Leet hacker salt term hash : f0744d60dd500c92c0d37c16174cc58d3c4bdd8e:
+* Leet hacker password hash: ece4bb07f2580ed8b39aa52b7f7f918e43033ea1
 ```
 Password found: harib
 Number of guesses: 546372
