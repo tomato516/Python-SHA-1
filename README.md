@@ -16,7 +16,7 @@ $ python2 sha1BruteForce.py <SALT TERM HASH> <PASSWORD HASH>
 If match found, program shall output the password, number of guesses and duration to break the hash 
 
 ## Libraries used
-```
+```python
 import hashlib
 import time
 import sys
