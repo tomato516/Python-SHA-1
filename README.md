@@ -15,7 +15,15 @@ $ python2 sha1BruteForce.py <SALT TERM HASH> <PASSWORD HASH>
 ```
 If match found, program shall output the password, number of guesses and duration to break the hash 
 
-
+## Libraries used
+```
+import hashlib
+import time
+import sys
+```
+1. hashlib: module containing an interface to the most popular hashing algorithms
+2. time: module providing various time-related functions
+3. sys: module providing access to some variables used or maintained by the interpreter and to functions that interact strongly with the interpreter
 ## Solutions 
 * Testing program hash: b7a875fc1ea228b9061041b7cec4bd3c52ab3ce3:  
 ```
