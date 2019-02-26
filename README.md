@@ -21,7 +21,7 @@ import hashlib
 import time
 import sys
 ```
-1. hashlib: module containing an interface to the most popular hashing algorithms
+1. hashlib: module containing an interface to many different secure hash and message digest algorithms
 2. time: module providing various time-related functions
 3. sys: module providing access to some variables used or maintained by the interpreter and to functions that interact strongly with the interpreter
 ## Solutions 
