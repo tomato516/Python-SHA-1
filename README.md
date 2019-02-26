@@ -28,6 +28,10 @@ If match found, program shall output the password, number of guesses and duratio
 ![Second Solution](https://github.com/tomato516/images/blob/master/sha1MediumHashSolution.png)
 
 * Leet hacker salt term hash : f0744d60dd500c92c0d37c16174cc58d3c4bdd8e:  
-
-
+```
+Password found: harib
+Number of guesses: 546372
+Duration to break hash: 7.36961007118 seconds
+Goodbye!
+```
 ![Third Solution](https://github.com/tomato516/images/blob/master/sha1LeetHackerSolution.png)
